@@ -1,17 +1,17 @@
 ![banner](https://tm.ibxk.com.br/2021/06/06/06100543457001.jpg?ims=1120x420) 
 
 <h1 align="center">Olá, eu sou Erick Placides Martins</h1>
-<h3 align="rigth">Aqui você encontrará meus estudos e projetos desde o início da minha jornada em Análise e Desenvolvimento de Sistemas.</h3>
+<h3 align="rigth">Seja bem vindo, aqui você encontrará meus estudos e projetos da minha jornada em Análise e Desenvolvimento de Sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickplacidesmartins&label=Profile%20views&color=0e75b6&style=flat" alt="erickplacidesmartins" /> </p>
 
 - 📊 Atualmente trabalho com **Coord.Logística Laboratorial**
 
-- 💻 Atualmente me aperfeiçoando **HTML5/ CSS3/ JavaScript/ NodejS/ MySQL/ ReactjS**
+- 💻 Estudando **HTML5/ CSS3/ JavaScript/ NodejS/ MySQL/ ReactjS**
 
-- 💬 Procuro colaborar com [Colegas do curso Spread Fullstack](https://www.dio.me/)
+- 💬 Procuro colaborar com os [Colegas do curso Spread Fullstack](https://www.dio.me/)
 
-- 💬 Procuro colaborar com [Colegas do curso OneBiteCode ](https://programador.onebitcode.com/?ref=K64740523Y&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKTVpJdLQuVA2tUDznK3yptUfXT6tZt08rO7f3EwwCf8l6e8fbCyV8aAhzMEALw_wcB)
+- 💬 Procuro colaborar com os [Colegas do curso OneBiteCode ](https://programador.onebitcode.com/?ref=K64740523Y&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKTVpJdLQuVA2tUDznK3yptUfXT6tZt08rO7f3EwwCf8l6e8fbCyV8aAhzMEALw_wcB)
 
 - 📫 contato: **erickplacides@gmail.com**
 
@@ -28,7 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickplacidesmartins&show_icons=true&theme=dark&locale=en&layout=compact" alt="erickplacidesmartins" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickplacidesmartins&show_icons=true&theme=dark&locale=en" alt="erickplacidesmartins" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickplacidesmartins&theme=dark" alt="erickplacidesmartins" /></p>
 
