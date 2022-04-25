@@ -1,7 +1,7 @@
 ![banner](https://tm.ibxk.com.br/2021/06/06/06100543457001.jpg?ims=1120x420) 
 
-<h1 align="center">Olá, eu sou Erick Placides Martins</h1>
-<h3 align="rigth">Seja bem vindo, aqui você encontrará meus estudos e projetos da minha jornada em Análise e Desenvolvimento de Sistemas.</h3>
+<h1 align="center"> Sejam bem vindos!! eu sou Erick Placides Martins</h1>
+<h3 align="rigth"> Possuo curso superior de Logística & Transporte e também MBA de Gestão Empresarial, aqui você encontrará meus estudos e projetos da minha incrível jornada em Análise e Desenvolvimento de Sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickplacidesmartins&label=Profile%20views&color=0e75b6&style=flat" alt="erickplacidesmartins" /> </p>
 
