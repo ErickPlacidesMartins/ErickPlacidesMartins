@@ -9,6 +9,8 @@
 
 - 💻 Estudando **HTML5/ CSS3/ JavaScript**
 
+- 💬 Procuro colaborar com os Colegas do curso Análises e Desenvolvimento de Sistemas na UNINTER
+
 - 💬 Procuro colaborar com os [Colegas do curso na DIO GFT Start#5 Java ](https://www.dio.me/)
 
 - 💬 Procuro colaborar com os [Colegas do curso StartSe ](https://app.startse.com/?ref=K64740523Y&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKTVpJdLQuVA2tUDznK3yptUfXT6tZt08rO7f3EwwCf8l6e8fbCyV8aAhzMEALw_wcB)
