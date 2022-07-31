@@ -7,11 +7,11 @@
 
 - 📊 Atualmente trabalho com **Coord.Logística Laboratorial**
 
-- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ JAVA/ GIT&GITHUB**
+- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB**
 
 - 💬 Procuro colaborar com os [Colegas do curso Análises e Desenvolvimento de Sistemas na UNINTER](https://www.uninter.com/)
 
-- 💬 Procuro colaborar com os [Colegas do curso na DIO GFT Start#5 Java ](https://www.dio.me/)
+- 💬 Procuro colaborar com os Colegas dos cursos na DIO
 
 - 💬 Procuro colaborar com os [Colegas do curso StartSe ](https://app.startse.com/?ref=K64740523Y&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKTVpJdLQuVA2tUDznK3yptUfXT6tZt08rO7f3EwwCf8l6e8fbCyV8aAhzMEALw_wcB)
 
@@ -31,8 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
   <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" alt="javascript" width="50" height="50"/></a>
-  <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank" rel="noreferrer">  
-  <img src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt="java" width="60" height="60"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg" alt="git" width="50" height="50"/></a>
   <a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/></a>
 </p>
