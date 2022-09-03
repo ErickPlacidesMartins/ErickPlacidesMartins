@@ -1,19 +1,17 @@
 ![banner](https://tm.ibxk.com.br/2021/06/06/06100543457001.jpg?ims=1120x420) 
 
 <h1 align="center"> Sejam bem vindos!!  sou Erick Placides Martins</h1>
-<h3 align="rigth"> Aqui você encontrará meus estudos e projetos de minha jornada, estudante de Análises & Desenvolvimento de Sistemas,  possuo  formação de Logística Supply Chain e também MBA de Gestão Empresarial.</h3>
+<h3 align="rigth"> Aqui você encontrará meus estudos e projetos de minha transição  profissional  de Logística para Tecnologia, estudante de Análises & Desenvolvimento de Sistemas,  possuo  também formação de Logística Supply Chain e MBA de Gestão Empresarial.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickplacidesmartins&label=Profile%20views&color=0e75b6&style=flat" alt="erickplacidesmartins" /> </p>
 
 - 📊 Atualmente trabalho com **Coord.Logística Laboratorial**
 
-- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB**
+- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB/ C#/ SQL**
 
 - 💬 Procuro colaborar com os [Colegas do curso Análises e Desenvolvimento de Sistemas na UNINTER](https://www.uninter.com/)
 
-- 💬 Procuro colaborar com os Colegas dos cursos na DIO
-
-- 💬 Procuro colaborar com os [Colegas do curso StartSe ](https://app.startse.com/?ref=K64740523Y&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKTVpJdLQuVA2tUDznK3yptUfXT6tZt08rO7f3EwwCf8l6e8fbCyV8aAhzMEALw_wcB)
+- 💬 Procuro colaborar com os Colegas dos cursos na [Digital Innovation One Inc](https://dio.me/sign-up?ref=J1OTWQJ8I0)
 
 - 📫 contato: **erickplacides@gmail.com**
 
@@ -33,7 +31,10 @@
   <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" alt="javascript" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg" alt="git" width="50" height="50"/></a>
   <a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/></a>
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/></a>
+  <a href="https://www.alura.com.br/artigos/o-que-e-sql" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" width="50" height="50"/></a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickplacidesmartins&show_icons=true&theme=dark&locale=en&layout=compact" alt="erickplacidesmartins" /></p>
 
