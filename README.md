@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickplacidesmartins&label=Profile%20views&color=0e75b6&style=flat" alt="erickplacidesmartins" /> </p>
 
-- 📊 Atualmente trabalho com **Coord.Logística Laboratorial**
+- 📊 Atualmente  ** Estagiário Desenvolvimento Oracle APEX, SQL e PLSQL**
 
-- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB/ C#/ SQL**
+- 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB/ APEX/ SQL/ PLSQL **
 
 - 💬 Procuro colaborar com os [Colegas do curso Análises e Desenvolvimento de Sistemas na UNINTER](https://www.uninter.com/)
 
@@ -31,8 +31,9 @@
   <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" alt="javascript" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg" alt="git" width="50" height="50"/></a>
   <a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/></a>
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/></a>
-  <a href="https://www.alura.com.br/artigos/o-que-e-sql" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" alt="SQL" width="50" height="50"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Oracle_Application_Express" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/839/839182.png" alt="APEX" width="50" height="50"/></a>
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/a/ocom/img/sql.svg" alt="SQL" width="50" height="50"/></a>
+<a href="https://www.oracle.com/pt/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"><img src="https://software.com.br/images/product/1797/1023372022011361e027d90a976.jpeg" alt="PLSQL" width="50" height="50"/></a>
 </p>
 
 
