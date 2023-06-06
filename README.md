@@ -1,11 +1,11 @@
 ![banner](https://tm.ibxk.com.br/2021/06/06/06100543457001.jpg?ims=1120x420) 
 
 <h1 align="center"> Sejam bem vindos!!  sou Erick Placides Martins</h1>
-<h3 align="rigth"> Aqui você encontrará meus estudos e projetos de minha transição  profissional  de Logística para Tecnologia, estudante de Análises & Desenvolvimento de Sistemas,  possuo  também formação de Logística Supply Chain e MBA de Gestão Empresarial.</h3>
+<h3 align="rigth"> Aqui você encontrará meus estudos e projetos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickplacidesmartins&label=Profile%20views&color=0e75b6&style=flat" alt="erickplacidesmartins" /> </p>
 
-- 📊 Atualmente  ** Estagiário Desenvolvimento Oracle APEX, SQL e PLSQL**
+- 📊 Atualmente  ** Desenvolvedor Oracle APEX, SQL e PLSQL**
 
 - 💻 Estudando **HTML5/ CSS3/ JAVASCRIPT/ GIT&GITHUB/ APEX/ SQL/ PLSQL **
 
